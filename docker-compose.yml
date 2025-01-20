@@ -127,3 +127,13 @@ volumes:
         driver: local
     sail-meilisearch-Books:
         driver: local
+
+
+Device name	DESKTOP-7DFIIQ9
+Processor	11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.42 GHz
+Installed RAM	12.0 GB (11.8 GB usable)
+Device ID	C3ED7C2F-2746-4F13-92FC-458A31246316
+Product ID	00331-10000-00001-AA396
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+
