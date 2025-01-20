@@ -1,0 +1,45 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#5190
+    [34mall[39m: [
+      [34;4mApp\Models\Book[39;24m {#5201
+        [34mid[39m: [35m46[39m,
+        [34mtitle[39m: "[32mAdipisci reprehenderit.[39m",
+        [34mauthor[39m: "[32mLennie Ernser DDS[39m",
+        [34mcreated_at[39m: "[32m2024-02-20 17:13:08[39m",
+        [34mupdated_at[39m: "[32m2014-04-23 04:19:01[39m",
+        [34mreviews_avg_rating[39m: "[32m1.1428571428571429[39m",
+      },
+      [34;4mApp\Models\Book[39;24m {#5193
+        [34mid[39m: [35m37[39m,
+        [34mtitle[39m: "[32mAliquam quasi cum.[39m",
+        [34mauthor[39m: "[32mSarai Parisian[39m",
+        [34mcreated_at[39m: "[32m2023-04-03 20:39:03[39m",
+        [34mupdated_at[39m: "[32m1996-04-18 17:02:45[39m",
+        [34mreviews_avg_rating[39m: "[32m1.6000000000000000[39m",
+      },
+      [34;4mApp\Models\Book[39;24m {#5203
+        [34mid[39m: [35m36[39m,
+        [34mtitle[39m: "[32mEt sit labore.[39m",
+        [34mauthor[39m: "[32mMara Balistreri[39m",
+        [34mcreated_at[39m: "[32m2023-01-19 14:44:00[39m",
+        [34mupdated_at[39m: "[32m2002-09-17 09:20:36[39m",
+        [34mreviews_avg_rating[39m: "[32m1.6000000000000000[39m",
+      },
+      [34;4mApp\Models\Book[39;24m {#5204
+        [34mid[39m: [35m56[39m,
+        [34mtitle[39m: "[32mAut quaerat debitis harum.[39m",
+        [34mauthor[39m: "[32mDr. Delaney Runolfsdottir IV[39m",
+        [34mcreated_at[39m: "[32m2023-05-19 17:50:47[39m",
+        [34mupdated_at[39m: "[32m1983-04-11 19:44:56[39m",
+        [34mreviews_avg_rating[39m: "[32m1.6153846153846154[39m",
+      },
+      [34;4mApp\Models\Book[39;24m {#5202
+        [34mid[39m: [35m35[39m,
+        [34mtitle[39m: "[32mRem voluptas minus quia.[39m",
+        [34mauthor[39m: "[32mFilomena Bahringer[39m",
+        [34mcreated_at[39m: "[32m2023-06-19 16:30:21[39m",
+        [34mupdated_at[39m: "[32m1989-11-10 18:14:11[39m",
+        [34mreviews_avg_rating[39m: "[32m1.6666666666666667[39m",
+      },
+    ],
+  }
+
