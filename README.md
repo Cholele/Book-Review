@@ -6,6 +6,36 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+Email vinculado al 8x8 del Sr Carlos 5599902479 (solo llamadas para  verificacion)
+
+Email 
+Username: Edder.Hernandez@sekologistics.com
+Password:  xEe3U5ra17h2UrN
+
+
+Citrix
+Username: Edder.Hernandez
+Password:  xEe3U5ra17h2UrN
+
+
+Red NA:
+Username:ehernandez
+Password: ehernandez
+
+8x8
+Login as Organization
+
+
+Nota:
+En la siguiente aplicacion podra ver sus credenciales y equipo asignado para trabajar.
+https://rais.i-o.solutions/login
+
+Se le compartira un correo con el manual correspondiente.
+
+Saludos.
+
+
+
 
 ## About Laravel
 
